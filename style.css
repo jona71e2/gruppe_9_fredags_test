@@ -1,6 +1,9 @@
 /* ----------------------------Generelle indstillinger----------------------------*/
 
-
+p {
+    font-family: "Times New Roman", serif;
+    font-size: 1.5rem;
+}
 
 
 
@@ -321,9 +324,9 @@
 
 
 
-#kontakt_html h1 {
+#HTMLkontakt h1 {
     font-size: 3rem;
-    background-color: cornflowerblue;
+    color: cornflowerblue;
 
 }
 
