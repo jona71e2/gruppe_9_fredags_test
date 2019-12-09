@@ -211,7 +211,10 @@
 
 /* ----------------------------Om indstillinger ----------------------------*/
 
-
+#HTMLom h1 {
+    font-size: 3rem;
+    background-color: red;
+}
 
 
 
@@ -315,6 +318,11 @@
 
 
 
+#kontakt_html h1 {
+    font-size: 3rem;
+    background-color: cornflowerblue;
+
+}
 
 
 
