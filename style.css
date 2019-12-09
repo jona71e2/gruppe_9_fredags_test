@@ -403,7 +403,21 @@
 
 /* ----------------------------Aabningstider indstillinger ----------------------------*/
 
+#aabningstider_html h1 {
 
+    color: aqua;
+    font-size: 5vw;
+
+
+}
+
+#aabningstider_html p {
+
+    color: red;
+    font-size: 2vw;
+
+
+}
 
 
 
