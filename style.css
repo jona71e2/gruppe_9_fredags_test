@@ -1,5 +1,9 @@
 /* ----------------------------Generelle indstillinger----------------------------*/
 
+p {
+    font-family: "Times New Roman", serif;
+    font-size: 1.5rem;
+}
 
 
 
@@ -7,7 +11,9 @@
 
 
 
-
+#HTMLindex h1 {
+    font-size: 4rem;
+}
 
 
 
@@ -101,7 +107,16 @@
 
 /* ----------------------------Index indstillinger ----------------------------*/
 
+#HTMLindex h1 {
+    color: blue;
+}
 
+/*
+#HTMLindex p {
+    font-family: "Times New Roman", serif;
+    font-size: 1.5rem;
+}
+*/
 
 
 
@@ -202,7 +217,10 @@
 
 /* ----------------------------Om indstillinger ----------------------------*/
 
-
+#HTMLom h1 {
+    font-size: 3rem;
+    background-color: red;
+}
 
 
 
@@ -306,6 +324,10 @@
 
 
 
+#HTMLkontakt h1 {
+    font-size: 3rem;
+    color: blue;
+}
 
 
 
