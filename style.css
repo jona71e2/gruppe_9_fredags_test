@@ -101,7 +101,16 @@
 
 /* ----------------------------Index indstillinger ----------------------------*/
 
+#HTMLindex h1 {
+    color: blue;
+}
 
+/*
+#HTMLindex p {
+    font-family: "Times New Roman", serif;
+    font-size: 1.5rem;
+}
+*/
 
 
 
