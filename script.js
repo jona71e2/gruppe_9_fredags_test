@@ -12,11 +12,17 @@ function startVises() {
 function clickMenuKnap() {
     console.log("clickMenuKnap");
     document.querySelector("#menu").classList.remove("hidden");
-    document.querySelector("#menuknap").addEventListener("click", clickMenuVoek);
+
+    document.querySelector("#menuknap").classList.add("hide");
+    document.querySelector("#lukkeknap").classList.remove("hide");
+    document.querySelector("#lukkeknap").addEventListener("click", clickMenuVoek);
+
 
 }
 
 function clickMenuVoek() {
     console.log("clickMenuVoek");
+    document.querySelector("#lukkeknap").classList.add("hide");
+    document.querySelector("#menuknap").classList.remove("hide");
     document.querySelector("#menu").classList.add("hidden");
 }

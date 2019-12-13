@@ -10,6 +10,9 @@ p {
 
 
 
+.hide {
+    display: none;
+}
 
 #HTMLindex h1 {
     font-size: 4rem;
@@ -21,7 +24,7 @@ p {
 }
 
 #menuknap {
-    display: inline-block;
+/*    display: inline-block;*/
 }
 
 #menu {
