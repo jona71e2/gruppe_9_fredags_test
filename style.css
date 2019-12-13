@@ -16,7 +16,17 @@ p {
 }
 
 .hidden {
-    display: none;
+    opacity: 0;
+}
+
+#menuknap {
+    display: inline-block;
+}
+
+#menu {
+    list-style-type: none;
+    transition: transform.3s;
+    transform-origin: top left;
 }
 
 
